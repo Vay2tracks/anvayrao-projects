@@ -57,7 +57,7 @@ You need **Expo Go** installed. Scan the QR code below to open the app:
 
 Creates animated mosaics representing emotions using color and motion.
 
-- **Live Site:** [NeuroMosaic](https://neuromosaic.vercel.app)  
+- **Live Site:** [NeuroMosaic](https://neuro-mosaic.vercel.app)  
 - **GitHub Repo:** [NeuroMosaic](https://github.com/Vay2tracks/neuromosaic)  
 - **Tech:** React, JavaScript Canvas API, AI emotion analysis, CSS, GitHub, Vercel  
 - **About:** Transforms emotional states into interactive visual art  
