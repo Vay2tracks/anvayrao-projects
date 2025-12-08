@@ -9,7 +9,7 @@ This page serves as a single, organized link for colleges, internships, and anyo
 
 ##  Featured Projects
 
-### 🟦 1. Arcs Hub — Community Services Platform  
+###  1. Arcs Hub — Community Services Platform  
 A responsive **web + mobile** app built with Glide Apps to help local businesses, home-based services, and informal workers promote their services to the community.
 
 <img src="assets/arcshub.jpg" width="350" />
