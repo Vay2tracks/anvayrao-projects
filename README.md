@@ -29,7 +29,7 @@ A customizable AI-powered voice assistant built with Expo.
 **To try Eko on your phone:**  
 You need **Expo Go** installed. Scan the QR code below to open the app:
 
-<img src="assets/ekoqrcode.jpg" width="250" />
+<img src="https://github.com/Vay2tracks/anvayrao-projects/blob/main/assets/ekoqrcode.JPG" width="250" />
 
 💡 Don’t have Expo Go? Download it here:  
 [Get Expo Go on iOS](https://apps.apple.com/app/expo-go/id982107779) | [Get Expo Go on Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
