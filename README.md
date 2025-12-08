@@ -20,18 +20,25 @@ A responsive **web + mobile** app built with Glide Apps to help local businesses
 ---
 
 ### 🗣️ 2. Eko — AI Voice Assistant  
-A customizable, natural language voice assistant built using Expo.  
+A customizable AI-powered voice assistant built with Expo.  
+
+**To try Eko on your phone:**  
+You need **Expo Go** installed. Scan the QR code below to open the app:  
+
+![Scan to open Eko](https://link-to-your-qr-code-image.com/qr.png)  
+
+💡 Don’t have Expo Go? Download it here:  
+[Get Expo Go on iOS](https://apps.apple.com/app/expo-go/id982107779) | [Get Expo Go on Android](https://play.google.com/store/apps/details?id=host.exp.exponent)  
 
 - **GitHub Repo:** *(add your link here)*  
 - **Tech:** React Native, Expo, AI APIs  
-- **About:** Handles voice commands, tasks, and conversational queries.
+- **About:** A customizable AI voice assistant built with Expo that can respond to voice commands. Designed as a high-school passion project to explore AI and mobile development.  
 
 ---
 
 ### 🎓 3. MoodLens — AI Mood Detection & Journal App  
-An AI-powered app that detects your mood via webcam and lets users maintain a personal mood journal.  
-
-- **GitHub Repo:** *(add repo link)*  
+- **Live Site:** [MoodLens](https://moodlensml.vercel.app)  
+- **GitHub Repo:** [moodlens](https://github.com/Vay2tracks/moodlens)  
 - **Tech:** React.js, Vite, CSS, face-api.js (TinyFaceDetector & FaceExpressionNet), LocalStorage, Vercel  
 - **About:** Tracks emotions in real-time, stores logs locally, mobile-compatible, deployed on Vercel  
 
@@ -41,7 +48,7 @@ An AI-powered app that detects your mood via webcam and lets users maintain a pe
 Creates animated mosaics representing emotions using color and motion.  
 
 - **Live Site:** [NeuroMosaic](https://neuromosaic.vercel.app)  
-- **GitHub Repo:** *(add link)*  
+- **GitHub Repo:** [NeuroMosaic](https://github.com/Vay2tracks/neuromosaic)  
 - **Tech:** React, JavaScript Canvas API, AI emotion analysis, CSS, GitHub, Vercel  
 - **About:** Transforms emotional states into interactive visual art  
 
@@ -50,6 +57,7 @@ Creates animated mosaics representing emotions using color and motion.
 ### 🏃‍♂️ 5. Track PR Predictor  
 A frontend-only prototype that estimates running PRs based on weekly mileage and sprint intervals.  
 
+- **Live Site:** [Track PR Predictor](https://trackprpredictor.vercel.app)  
 - **GitHub Repo:** [trackprpredictor](https://github.com/Vay2tracks/trackprpredictor)  
 - **Tech:** React, JavaScript, CSS, SVG for UI/animations, GitHub, Vercel  
 - **About:** All calculations run in-browser, visually demonstrating trends and improvements  
