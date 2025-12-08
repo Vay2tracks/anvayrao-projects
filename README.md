@@ -89,13 +89,3 @@ A frontend-only prototype that estimates running PRs based on weekly mileage and
 - **Git & GitHub**
 
 ---
-
-## 📄 Screenshots & Media  
-
-```md
-<img src="assets/arcshub.jpg" width="300" />
-<img src="assets/eko.jpg" width="300" />
-<img src="assets/ekoqrcode.jpg" width="250" />
-<img src="assets/moodlens.jpeg" width="300" />
-<img src="assets/neuromosaic.jpg" width="300" />
-<img src="assets/trackprpred.jpeg" width="300" />
