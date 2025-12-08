@@ -14,7 +14,7 @@ A responsive **web + mobile** app built with Glide Apps to help local businesses
 
 <img src="assets/arcshub.jpg" width="350" />
 
-- **Live App:** [Glide Link](https://arcs-hub.glide.page)  
+- **Live App:** [Glide Link](https://arcshub.glide.page)  
 - **GitHub Repo:** [arcshub](https://github.com/Vay2tracks/arcshub)  
 - **Tech:** Glide Apps  
 - **About:** Boosts visibility for small and unstructured local businesses.  
