@@ -72,7 +72,18 @@ A frontend-only prototype that estimates running PRs based on weekly mileage and
 - **Live Site:** [Track PR Predictor](https://trackprpredictor.vercel.app)  
 - **GitHub Repo:** [trackprpredictor](https://github.com/Vay2tracks/trackprpredictor)  
 - **Tech:** React, JavaScript, CSS, SVG for UI/animations, GitHub, Vercel  
-- **About:** All calculations run in-browser, visually demonstrating trends and improvements  
+- **About:** All calculations run in-browser, visually demonstrating trends and improvements
+
+### 6. AR SkillPath — A Smart Career Discovery App
+
+<img src="assets/skillpath.jpg" width="350" />
+
+A frontend-only career-discovery prototype that suggests personalized fields, career paths, and mini-project ideas based on a quick quiz about hobbies, favorite school subjects, and personality traits.
+
+- **Live Site:** https://arskillpath.vercel.app
+- **GitHub Repo:** [trackprpredictor](https://github.com/Vay2tracks/trackprpredictor)  
+- **Tech:** React.js, Vite, CSS, LocalStorage, Vercel
+- **About:** A demo smart career-discovery app for teens that generates personalized fields, career paths, and mini-project ideas based on a quiz about hobbies, favorite school subjects, and personality traits. Fully client-side with custom logic, clean UI, instant results, and deployed on Vercel.
 
 ---
 
