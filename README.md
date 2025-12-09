@@ -80,8 +80,8 @@ A frontend-only prototype that estimates running PRs based on weekly mileage and
 
 A frontend-only career-discovery prototype that suggests personalized fields, career paths, and mini-project ideas based on a quick quiz about hobbies, favorite school subjects, and personality traits.
 
-- **Live Site:** https://arskillpath.vercel.app
-- **GitHub Repo:** [trackprpredictor](https://github.com/Vay2tracks/trackprpredictor)  
+- **Live Site:** [arskillpath](https://arskillpath.vercel.app)
+- **GitHub Repo:** [arskillpath](https://github.com/Vay2tracks/arskillpath)  
 - **Tech:** React.js, Vite, CSS, LocalStorage, Vercel
 - **About:** A demo smart career-discovery app for teens that generates personalized fields, career paths, and mini-project ideas based on a quiz about hobbies, favorite school subjects, and personality traits. Fully client-side with custom logic, clean UI, instant results, and deployed on Vercel.
 
